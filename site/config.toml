@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Ecoindex"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
@@ -10,21 +10,21 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "The Ecoindex product suite provides continuous monitoring of land use and land cover as live condition and vulnerability assessements."
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  bio= "my bio"
+  author = "Michael Flaxman"
+  authorlocation = "Berkeley, California"
+  authorwebsite = "http://geodesigntech.com"
+  bio= "My Bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "vjeantet"
-  twitterName = "vjeantet"
+  githubName = "mflaxman10"
+  twitterName = "geodesigntech"
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    twitter = "geodesigntech"
