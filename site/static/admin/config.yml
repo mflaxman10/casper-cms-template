@@ -17,3 +17,22 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
+  - name: "maps" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Map" # Used in the UI, ie.: "New Post"
+    folder: "site/content/maps" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Latitude", name: "latitude", widget: "string"}
+      - {label: "Longitude", name: "longitude", widget: "string"}
+      - {label: "Scale", name: "scale", widget: "string"}
+      - {label: "Map ID", name: "mapid", widget: "string"}
+      - {label: "API Key", name: "key", widget: "string"}
+      - {label: "Tiled Map Server Template URL", name: "tms", widget: "string"}
+
+
+
+
+      
