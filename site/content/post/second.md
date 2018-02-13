@@ -1,8 +1,8 @@
 ---
 date: 2016-09-09T10:24:16-04:00
-title: EcoIndex Pavement - Monitoring Effective Impervious Cover
+title: EcoIndex Pavement
 ---
-
+<h2>Continuous Monitoring of Impervious Cover</h2>
 
 The single most important landscape-scale variable affecting flood risk is the distribution of impervious cover.  Because of recent EPA stormwater management requirements, many communities are electing to track impervious cover.  This is important for planning purposes as a basic input to all stormwater models.  Increasingly, communities are considering direct taxation of impervious cover.  The EcoIndex product set provides specialized monitoring tools for both purposes.  
 <ol>
